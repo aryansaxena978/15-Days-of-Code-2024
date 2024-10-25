@@ -18,7 +18,7 @@
   Watched youtube video how to properly use github
   Learened different github commands.
 
-  ### Day 2
+### Day 2
 
 [October] [24], 2024
 - Given the contest on codeforces
@@ -34,4 +34,24 @@
   https://codeforces.com/problemset/problem/339/A
 - Other Tasks :
   Read about different methods in string library class from documentation.
+
+### Day 3
+
+[October] [25], 2024
+
+- Question 1 : Solved CP-31 TLE sheets 
+  https://codeforces.com/problemset/problem/1901/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/2009/A
+- Question 3 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1899/A
+- Question 4 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1873/C
+- Question 5 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1866/A
+- Question 6 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/281/A
+- Question 7 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/236/A
+  
 
