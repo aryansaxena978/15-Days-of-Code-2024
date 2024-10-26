@@ -53,5 +53,26 @@
   https://codeforces.com/problemset/problem/281/A
 - Question 7 : Solved question from codeforces 
   https://codeforces.com/problemset/problem/236/A
+
+### Day 4
+
+[October] [26], 2024
+- Given the contest on codeforces
+  Was not able to succesfully solve question 
+- Question 1 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/791/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/266/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/617/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/546/A
+- Question 5 : Solved CP-31 TLE sheets
+  https://codeforces.com/contest/1862/problem/B
+- Question 6 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1859/A
+- Question 7 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1857/A 
+
   
 
