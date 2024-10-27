@@ -72,7 +72,28 @@
 - Question 6 : Solved CP-31 TLE sheets
   https://codeforces.com/problemset/problem/1859/A
 - Question 7 : Solved CP-31 TLE sheets
-  https://codeforces.com/problemset/problem/1857/A 
+  https://codeforces.com/problemset/problem/1857/A
+
+
+### Day 5
+
+[October] [27], 2024
+- Today started and completed fisrt chapter from
+  The C programming book by Dennis M. Ritchie. 
+- Question 1 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/59/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/977/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/69/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/96/A
+- Question 5 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1853/A
+- Question 6 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1834/A
+
+
 
   
 
