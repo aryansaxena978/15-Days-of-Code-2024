@@ -93,6 +93,31 @@
 - Question 6 : Solved CP-31 TLE sheets
   https://codeforces.com/problemset/problem/1834/A
 
+### Day 6
+
+[October] [28], 2024
+- Given the contest on codeforces
+  Was not able to succesfully solve question
+- Question 1 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1829/B
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/110/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/734/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/41/A
+- Question 5 : Solved question from leetcode
+  https://leetcode.com/problems/spiral-matrix/submissions/1436104094/
+- Question 6 : Solved question from leetcode
+  https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1436355118/
+- Question 7 : Solved question from leetcode
+  https://leetcode.com/problems/count-primes/submissions/1436491890/
+- Other Tasks :
+  Continued my DSA learning from Love Babbar
+  Watched his 23rd lecture
+  https://youtu.be/1CdolnvxLs0?si=lKoUGEx5KLvs1FOP
+  Watched his 24th lecture
+  https://youtu.be/KdePjukNs98?si=Q1WISdwrW8zSrStt 
 
 
   
