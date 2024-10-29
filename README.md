@@ -117,7 +117,31 @@
   Watched his 23rd lecture
   https://youtu.be/1CdolnvxLs0?si=lKoUGEx5KLvs1FOP
   Watched his 24th lecture
-  https://youtu.be/KdePjukNs98?si=Q1WISdwrW8zSrStt 
+  https://youtu.be/KdePjukNs98?si=Q1WISdwrW8zSrStt
+
+### Day 7
+
+[October] [29], 2024
+- Question 1 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1806/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/116/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/677/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/271/A
+- Question 5 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/266/B
+- Question 6 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1791/C
+- Question 7 : Solved CP-31 TLE sheets
+  https://codeforces.com/problemset/problem/1788/A
+- Other Tasks :
+  Continued my DSA learning from Love Babbar
+  Watched his 25rd lecture
+  https://youtu.be/YHwEIfrXZgE?si=1u8tMLCZ78_zmW5Q
+  Watched his 26th lecture
+  https://youtu.be/rlpw7oi-bpE?si=YusxXhym5TGc5OEO 
 
 
   
