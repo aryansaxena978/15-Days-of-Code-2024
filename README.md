@@ -143,6 +143,27 @@
   Watched his 26th lecture
   https://youtu.be/rlpw7oi-bpE?si=YusxXhym5TGc5OEO 
 
+### Day 8
+
+[October] [30], 2024
+  Could not do anything due to bad health.
+
+### Day 9
+
+[October] [31], 2024
+
+- Question 1 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/1030/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/2030/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/58/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/122/A
+- Question 5 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/467/A
+- Question 6 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/344/A
 
   
 
