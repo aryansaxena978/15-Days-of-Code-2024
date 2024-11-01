@@ -165,5 +165,13 @@
 - Question 6 : Solved question from codeforces 
   https://codeforces.com/problemset/problem/344/A
 
+### Day 10
+
+[November] [1], 2024
+
+- Question 1 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/160/A
+
+
   
 
