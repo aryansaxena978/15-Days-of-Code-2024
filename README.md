@@ -173,5 +173,27 @@
   https://codeforces.com/problemset/problem/160/A
 
 
+### Day 11
+
+[November] [2], 2024
+
+- Question 1 : Solved question from codeforces 
+  https://codeforces.com/contest/486/problem/A
+- Given the contest on codeforces
+  Was able to solve 3 questions
+  https://codeforces.com/contest/2036/problem/A
+  https://codeforces.com/contest/2036/problem/B
+  https://codeforces.com/contest/2036/problem/C
+- Question 2 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/200/B
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/318/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/61/A
+  
+  
+  
+
+
   
 
