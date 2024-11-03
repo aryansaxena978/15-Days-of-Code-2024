@@ -191,7 +191,29 @@
 - Question 4 : Solved question from codeforces
   https://codeforces.com/problemset/problem/61/A
   
-  
+### Day 12
+
+[November] [3], 2024
+- Question 1 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/228/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/705/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/133/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/1328/A
+- Question 5 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/405/A
+- Other Tasks :
+  Continued my DSA learning from Love Babbar
+  Watched his 27th lecture
+  https://youtu.be/P0UsAxtXq2Y?si=dYyRdaiElBBxaBYP
+  Watched his 28th lecture
+  https://youtu.be/MMO2c57XHzM?si=cSLkOl6Yzygh5hgl
+  Watched his 29th lecture
+  https://youtu.be/LlqgWQgm58g?si=djTntX_Hili9McoI
+  Watched his 30th lecture
+  https://youtu.be/0TEvaAiqo8Y?si=iynKyFNefM4XFZE9
   
 
 
