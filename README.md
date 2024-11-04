@@ -214,8 +214,24 @@
   https://youtu.be/LlqgWQgm58g?si=djTntX_Hili9McoI
   Watched his 30th lecture
   https://youtu.be/0TEvaAiqo8Y?si=iynKyFNefM4XFZE9
-  
 
+### Day 13
+
+[November] [4], 2024
+- Question 1 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/469/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/520/A
+- Question 3 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/144/A
+- Question 4 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/479/A
+- Question 5 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/148/A
+- Question 6 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/996/A
+- Question 7 : Solved question from codeforces
+  https://codeforces.com/problemset/problem/443/A
 
   
 
