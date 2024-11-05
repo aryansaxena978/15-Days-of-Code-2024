@@ -233,5 +233,17 @@
 - Question 7 : Solved question from codeforces
   https://codeforces.com/problemset/problem/443/A
 
+### Day 14
+
+[November] [5], 2024
+
+- Question 1 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/785/A
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/208/A
+- Question 3 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/580/A
+
+
   
 
