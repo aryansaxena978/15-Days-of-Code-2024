@@ -244,6 +244,18 @@
 - Question 3 : Solved question from codeforces 
   https://codeforces.com/problemset/problem/580/A
 
+### Day 15
+
+[November] [6], 2024
+
+- Question 1 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/158/B
+- Question 2 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/268/A
+- Question 3 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/25/A
+- Question 4 : Solved question from codeforces 
+  https://codeforces.com/problemset/problem/131/A
 
   
 
